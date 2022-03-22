@@ -1,0 +1,57 @@
+body{
+    background-color: cornsilk; 
+}
+/*제목*/
+.top {
+    background-color: bisque;
+    color: cadetblue;
+    text-align: center;
+}
+/*소개 글*/
+.introduction{
+    height: 800px;
+}
+
+mark {
+    background-color: coral;
+}
+
+/*목차*/
+.index mark {
+    background-color: aqua;
+}
+.index ol {
+    background-color: rgb(176, 200, 207);
+    width: 300px;
+}
+.index li {
+    background-color: beige;
+    margin-bottom: 10px;
+}
+.index li:hover {
+    background-color: burlywood;
+    color: chartreuse;
+}
+.index a:hover {
+    color: white;
+}
+/*동아리 운영진*/
+.mentor table {
+    border: 3px solid blue; /*굵기 선종류 색상*/
+}
+.mentor table td {
+    height: 50px;
+    width: 100px;
+    border: 3px dotted green;
+    background-color:burlywood;
+    text-align: center;
+}
+/*동아리 팀원*/
+
+/*링크 이동*/
+
+/*소사 캠퍼스*/
+.school img{
+    width: auto;
+    height: 250px;
+}
