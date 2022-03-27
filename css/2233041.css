@@ -59,10 +59,10 @@ mark {
 }
 
 /*링크 이동*/
-.link a:link {
+a:link {
     text-decoration-line: none;
 }
-.link a:hover{
+a:hover{
     background-color: cornflowerblue;
     color: coral;
     text-decoration-line: underline ;
